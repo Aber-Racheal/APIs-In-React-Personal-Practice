@@ -18,11 +18,11 @@
 import { Routes , Route, Link} from 'react-router-dom'
 import Login from "./Login"
 import Users from "./Users";
-import { login } from './Login/utils';
+// import {login } from './Login/utils';
 export function Introduction(){
   return(
     <h1>
-      {/* We are Adalab */}
+      {/* We are SWEs */}
     </h1>
   )
 }
